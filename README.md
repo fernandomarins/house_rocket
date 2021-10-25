@@ -2,7 +2,7 @@
 
 ## Analyzing House Rocket Houses
 
-![house.jpg](attachment:house.jpg)
+![house.jpg](house.jpg)
 
 # 1. Business Problem
 
